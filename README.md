@@ -1,14 +1,14 @@
 # RAG-Question-Answering
 Code for question answering model using Retrieval-Augmented Generation
 
-# Install Requirements
+## Install Requirements
 pip install -r requirements.txt
 
-# Requirements
+## Requirements
 Hugging Face
 OpenAI API
 
-# Run Interactive Q&A application 
+## Run Interactive Q&A application 
 python src/main.py
 
 
